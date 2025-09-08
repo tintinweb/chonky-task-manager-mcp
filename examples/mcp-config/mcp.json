@@ -1,0 +1,11 @@
+{
+	"servers": {
+		"chonky-via-npm": {
+			"type": "stdio",
+			"command": "chonky-task-manager-mcp",
+			"args": ["stdio"],
+			"env": {}
+		}
+	},
+	"inputs": []
+}
