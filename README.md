@@ -113,7 +113,9 @@ chonky-task-manager-mcp stdio
 ```
 
 ### VS Code Extension
-The extension automatically integrates with GitHub Copilot, providing language model tools for natural task management through chat interactions.
+The [extension](https://marketplace.visualstudio.com/items?itemName=tintinweb.chonky-task-manager) automatically integrates with GitHub Copilot, providing language model tools for natural task management through chat interactions.
+
+https://github.com/user-attachments/assets/4eea8ad3-295f-4805-87f8-204474d8e559
 
 ## Available Tools
 
