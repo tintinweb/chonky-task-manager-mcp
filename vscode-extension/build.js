@@ -29,9 +29,6 @@ const buildOptions = {
     'process.env.NODE_ENV': production ? '"production"' : '"development"'
   },
   
-  // Handle dynamic requires more gracefully
-  packages: 'external',
-  
   // Additional optimizations
   drop: production ? ['console', 'debugger'] : [],
   

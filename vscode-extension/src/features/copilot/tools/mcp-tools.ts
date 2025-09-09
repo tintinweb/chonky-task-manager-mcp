@@ -6,7 +6,7 @@
  */
 
 import * as vscode from 'vscode';
-import { toolRegistry } from 'chonky-tasks-mcp-server/build/tools/registry.js';
+import { toolRegistry } from 'chonky-task-manager-mcp/build/tools/registry.js';
 /**
  * Universal MCP Tool Wrapper
  * Dynamically wraps any MCP tool from the registry

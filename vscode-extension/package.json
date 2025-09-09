@@ -2,7 +2,7 @@
   "name": "chonky-task-manager",
   "displayName": "Chonky Task Manager",
   "description": "Structured LLM Task Management for VSCode Copilot Agents",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "preview": true,
   "icon": "img/chonky-blue-tasks.png",
   "keywords": [
@@ -503,7 +503,7 @@
     "@typescript-eslint/parser": "^8.22.0",
     "@vscode/test-cli": "^0.0.11",
     "@vscode/test-electron": "^2.4.1",
-    "chonky-tasks-mcp-server": "file:../",
+    "chonky-task-manager-mcp": "file:../",
     "esbuild": "^0.25.8",
     "eslint": "^9.19.0",
     "typescript": "^5.7.3"
