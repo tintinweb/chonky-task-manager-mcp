@@ -117,6 +117,9 @@ The [extension](https://marketplace.visualstudio.com/items?itemName=tintinweb.ch
 
 https://github.com/user-attachments/assets/4eea8ad3-295f-4805-87f8-204474d8e559
 
+https://github.com/user-attachments/assets/8e90673c-94d2-4a92-864a-540f058eafff
+
+
 ## Available Tools
 
 - `chonky-task-manager-create-project` - Initialize new task projects
